@@ -1,2 +1,2 @@
-# gateway-updater
-An update service for Gateway.
+# gateway
+An update service for production Gateway.
